@@ -4,7 +4,7 @@
 	"apiManagerData": {
 		"assets": [
 			{
-				"assetId": prueba,
+				"assetId": "prueba",
 				"id": 12345,
 				"assetData": {
 					"instanceLabel": "int"
