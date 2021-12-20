@@ -1,0 +1,15 @@
+{
+	"date": "2021-12-20T16:19:53.816+01:00",
+	"businessGroup": "Sociedad Estatal Correos y Telegrafos SA",
+	"apiManagerData": {
+		"assets": [
+			{
+				"assetId": prueba,
+				"id": 12345,
+				"assetData": {
+					"instanceLabel": "int"
+				}
+			}
+		]
+	}
+}
